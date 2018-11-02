@@ -7,7 +7,7 @@ class Doctor
     @@all << self
   end
 
-  def new_appointment(patient)
+  def new_appointment(patient, date)
     Appointment.new(self, date, patient)
   end
 
