@@ -1,5 +1,5 @@
 class Song
   @@all =[]
 
-  def self.all? { |e|  }
+  def self.all
 end
