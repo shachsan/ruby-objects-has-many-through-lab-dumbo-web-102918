@@ -1,5 +1,5 @@
 class Genre
   @@all = []
 
-  def 
+  def self.all? { |e|  }
 end
