@@ -1,4 +1,4 @@
 class Doctor
-  attr_acce
+  attr_accessor :name
   @@all = []
 end
