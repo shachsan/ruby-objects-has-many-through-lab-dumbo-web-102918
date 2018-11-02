@@ -8,6 +8,6 @@ class Doctor
   end
 
   def self.all
-    
+    @@
   end
 end
