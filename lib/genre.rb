@@ -1,7 +1,7 @@
 class Genre
   @@all = []
 
-  def 
+  def initialize(name)
 
   def self.all
     @@all
