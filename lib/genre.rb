@@ -11,7 +11,7 @@ class Genre
   end
 
   def artists
-    Artist.all.select {|artist|}
+    Artist.all.select {|artist|artist}
   end
 
   def self.all
