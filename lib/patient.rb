@@ -1,1 +1,2 @@
-class 
+class Doctor
+end 
