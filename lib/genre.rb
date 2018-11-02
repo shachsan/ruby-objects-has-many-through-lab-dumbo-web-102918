@@ -3,4 +3,5 @@ class Genre
 
   def self.all
     
+  end
 end
