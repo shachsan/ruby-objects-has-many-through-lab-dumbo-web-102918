@@ -12,7 +12,7 @@ class Patient
   end
 
   def appointments
-    Appointment
+    Appointment.all.select
   end
 
   def self.all
