@@ -10,5 +10,6 @@ class Appointment
   end
 
   def self.all
-    ene
+    
+  end
 end
