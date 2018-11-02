@@ -8,4 +8,6 @@ class Patient
   end
 
   def self.all
+    
+  end
 end
