@@ -5,6 +5,6 @@ class Song
     @@all
   end
 
-  def initialize()
+  def initialize(name)
   end
 end
