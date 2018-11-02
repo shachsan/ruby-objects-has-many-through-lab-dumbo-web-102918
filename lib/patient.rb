@@ -17,7 +17,7 @@ class Patient
 
   def doctors
     appointments.map {|appointment|appointment.doctor}
-    bi
+    binding.pry
   end
 
   def self.all
