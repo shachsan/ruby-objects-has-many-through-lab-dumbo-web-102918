@@ -11,7 +11,7 @@ class Genre
   end
 
   def artists
-    songs.
+    songs.map 
   end
 
   def self.all
