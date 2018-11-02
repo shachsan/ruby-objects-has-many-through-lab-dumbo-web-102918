@@ -12,7 +12,7 @@ class Patient
   end
 
   def appointments
-    
+    Appointment
   end
 
   def self.all
