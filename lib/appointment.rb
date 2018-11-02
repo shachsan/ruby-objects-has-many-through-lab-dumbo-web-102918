@@ -1,1 +1,3 @@
 class Appointment
+  
+end
