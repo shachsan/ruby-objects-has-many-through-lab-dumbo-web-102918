@@ -1,5 +1,5 @@
 class Artist
-  attr
+  attr_rea
   @@all =[]
 
   def initialize(name)
