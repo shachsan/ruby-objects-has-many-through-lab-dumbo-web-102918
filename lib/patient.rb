@@ -1,4 +1,4 @@
-
+require 
 
 class Patient
   attr_accessor :name
