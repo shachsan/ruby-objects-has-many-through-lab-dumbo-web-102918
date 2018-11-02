@@ -1,5 +1,6 @@
 class Artist
   @@all =[]
 
-  def 
+  def self.all
+    
 end
