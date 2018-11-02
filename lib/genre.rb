@@ -7,7 +7,7 @@ class Genre
   end
 
   def songs
-    Songs.all.select {|song|}
+    Songs.all.select {|song|song.}
   end
 
   def self.all
